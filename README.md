@@ -1,3 +1,2 @@
-- Hello! I'm Luke.
-- I like to code in Lua, HTML, CSS, Python and C#.
-- I also like to create Scratch games/tutorials and Roblox games/scripts!
+- Hello! I'm Zhyov / Luke.
+- I code in Lua, HTML, CSS, JS and Python.
